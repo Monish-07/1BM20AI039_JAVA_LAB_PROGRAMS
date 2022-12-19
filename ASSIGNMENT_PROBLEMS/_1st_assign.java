@@ -1,4 +1,4 @@
-package Programming_Assignment;
+package ASSIGNMENT_PROBLEMS;
 
 class Number {
     private double n;
@@ -136,7 +136,7 @@ class Number {
     }
 }
 
-public class programming_exercise_1 {
+public class _1st_assign{
     public static void main(String[] args) {
         Number num = new Number(15);
         System.out.println("Number = " + num.getNumber());
