@@ -1,5 +1,3 @@
-package ASSIGNMENT_PROBLEMS;
-
 abstract class Marks {
     abstract double getPercentage();
 }
@@ -40,7 +38,7 @@ class B extends Marks {
 
 }
 
-public class 3rd_assign {
+public class _3rd_assign {
     public static void main(String[] args) {
         A a = new A(58, 96, 85);
         System.out.print("Percentage of student A: ");

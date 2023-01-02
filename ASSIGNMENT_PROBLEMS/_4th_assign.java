@@ -1,5 +1,3 @@
-package Programming_Assignment;
-
 abstract class Animal {
     protected int legs;
 
@@ -102,7 +100,7 @@ class Fish extends Animal implements Pet {
 
 }
 
-public class programming_exersice_4 {
+public class _4th_assign {
     public static void main(String[] args) {
         Fish d = new Fish();
         Cat c = new Cat("Fluffy");

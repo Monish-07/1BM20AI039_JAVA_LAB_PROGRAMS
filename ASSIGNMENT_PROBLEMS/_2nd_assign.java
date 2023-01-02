@@ -1,5 +1,3 @@
-package Programming_Assignment;
-
 import java.util.Scanner;
 
 class Clock {
@@ -143,7 +141,7 @@ class Clock {
     }
 }
 
-public class programming_exersice_2 {
+class _2nd_assign{
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);

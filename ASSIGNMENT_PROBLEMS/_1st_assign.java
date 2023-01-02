@@ -1,5 +1,3 @@
-package ASSIGNMENT_PROBLEMS;
-
 class Number {
     private double n;
 
@@ -135,8 +133,7 @@ class Number {
         }
     }
 }
-
-public class _1st_assign{
+class _1st_assign{
     public static void main(String[] args) {
         Number num = new Number(15);
         System.out.println("Number = " + num.getNumber());

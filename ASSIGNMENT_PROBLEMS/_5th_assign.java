@@ -1,5 +1,3 @@
-package Programming_Assignment;
-
 class Shape {
     String shapeName;
 
@@ -114,7 +112,7 @@ class Glome extends Sphere {
     }
 }
 
-public class programming_exersice_5 {
+class _5th_assign {
     public static void main(String[] args) {
 
         Circle circle = new Circle(8.0, "Circle");
